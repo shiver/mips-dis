@@ -1,0 +1,9 @@
+[package]
+name = "mips-dis"
+version = "0.1.0"
+authors = ["Robert Vally <rvally@gmail.com>"]
+
+[dependencies]
+byteorder = "1"
+enum-primitive-derive = "^0.1"
+num-traits = "^0.1"
